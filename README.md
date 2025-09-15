@@ -22,11 +22,11 @@
 
 ## 📂 Featured Public Projects
 
-- [Java](https://github.com/Reservieren/Java)
-- [VozLivre](https://github.com/Reservieren/VozLivre)
-- [NaughtyPass](https://github.com/Reservieren/NaughtyPass)
-- [leonardo](https://github.com/Reservieren/leonardo)
-- [naughtypass-frontend](https://github.com/Reservieren/naughtypass-frontend)
+- [Text Analyzer]([https://github.com/Reservieren/Java](https://github.com/Reservieren/TextAnalyzer))
+- [Temperature Converter](https://github.com/Reservieren/Temperature-Converter)
+- [Squad](https://github.com/Reservieren/Squad)
+- [Tsiolkovsky Calculator](https://github.com/Reservieren/Tsiolkovsky-Calculator)
+- [Calculator](https://github.com/Reservieren/calculator.js)
 
 ---
 
