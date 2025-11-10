@@ -23,7 +23,6 @@
 ## 📂 Featured Public Projects
 
 - [Text Analyzer]([https://github.com/Reservieren/Java](https://github.com/Reservieren/TextAnalyzer))
-- [Temperature Converter](https://github.com/Reservieren/Temperature-Converter)
 - [Squad](https://github.com/Reservieren/Squad)
 - [Tsiolkovsky Calculator](https://github.com/Reservieren/Tsiolkovsky-Calculator)
 - [Calculator](https://github.com/Reservieren/calculator.js)
@@ -32,9 +31,10 @@
 
 ## 🎮 Hobbies & Fun Facts
 
-- 📚 Avid reader of various genres
-- ⚔️ Gamer at heart — favorites: Squad & Dark Souls
-- 🧑‍💻 Always exploring new tech and security topics
+- Avid reader of various genres
+- Gamer at heart — favorites: Squad & Dark Souls
+- Always exploring new tech and security topics
+- Always trying to learn a new language.
 
 ---
 
@@ -51,4 +51,4 @@
 
 ---
 
-<sub>“Persistence is the path to success.”</sub>
+<sub>"Persistence or obsession — that’s the compiler of greatness."</sub>
