@@ -16,15 +16,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Technical Documentation](https://img.shields.io/badge/Documentation-Important?style=for-the-badge&logo=readthedocs&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-In_Progress-7A1FA2?style=for-the-badge&logo=datadog&logoColor=white)
 
 ---
 
 ## 📂 Featured Public Projects
 
-- [Text Analyzer]([https://github.com/Reservieren/Java](https://github.com/Reservieren/TextAnalyzer))
-- [Squad](https://github.com/Reservieren/Squad)
+- [Text Analyzer](https://github.com/Reservieren/TextAnalyzer)
+- [LearnFlix](https://github.com/Reservieren/LearnFlix)
 - [Tsiolkovsky Calculator](https://github.com/Reservieren/Tsiolkovsky-Calculator)
 - [Calculator](https://github.com/Reservieren/calculator.js)
 
