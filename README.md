@@ -27,16 +27,16 @@
 ## 📂 Featured Public Projects
 
 - **Text Analyzer** — Text processing and analysis with JavaScript  
-  https://github.com/Reservieren/TextAnalyzer
+  https://github.com/devpedry/TextAnalyzer
 
 - **LearnFlix** — React-based learning platform (GitHub Pages)  
-  https://github.com/Reservieren/LearnFlix
+  https://github.com/devpedry/LearnFlix
 
 - **Tsiolkovsky Calculator** — Physics-based calculator for rocket equations  
-  https://github.com/Reservieren/Tsiolkovsky-Calculator
+  https://github.com/devpedry/Tsiolkovsky-Calculator
 
 - **Calculator** — Simple calculator built with JavaScript  
-  https://github.com/Reservieren/calculator.js
+  https://github.com/devpedry/calculator.js
 
 ---
 
@@ -57,8 +57,8 @@
 
 ## 📈 GitHub Stats
 
-![Reservieren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reservieren&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reservieren&layout=compact&theme=tokyonight)
+![Reservieren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devpedry&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devpedry&layout=compact&theme=tokyonight)
 
 ---
 
