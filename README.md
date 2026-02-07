@@ -56,8 +56,7 @@
 ---
 
 ## 📈 GitHub Stats
-
-![Reservieren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devpedry&show_icons=true&theme=tokyonight)
+[![Pedry's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpedry)](https://github.com/devpedry/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devpedry&layout=compact&theme=tokyonight)
 
 ---
